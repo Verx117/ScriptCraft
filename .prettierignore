@@ -1,0 +1,10 @@
+node_modules
+dist
+dist-ssr
+bun.lockb
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+.github
+.changeset
+*.md
